@@ -1,0 +1,3 @@
+开一个CMD
+先安装依赖cnpm install
+安装完成npm start
